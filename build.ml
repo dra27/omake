@@ -11,6 +11,8 @@
  *)
 
 #warnings "-3";;
+#directory "+str";;
+#directory "+unix";;
 #load "str.cma";;
 #load "unix.cma";;
 
